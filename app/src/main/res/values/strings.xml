@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WhatToCook</string>
+    <string name="main_title">Что приготовить?</string>
+
+    <string name="menu_create">Создать рецепт</string>
+    <string name="menu_settings">Настройки</string>
+
+    <string name="drawer_item_home">Главное окно</string>
+    <string name="drawer_item_find_recipe">Подобрать рецепт</string>
+
+    <string name="drawer_item_you_dishes">Желаемые блюда</string>
+    <string name="drawer_item_shopping_list">Список покупок</string>
+    <string name="drawer_item_current_dishes">Текущие блюда</string>
+
+    <string name="drawer_item_statistics">Статистика</string>
+    <string name="drawer_item_planning">Планирование</string>
+    <string name="drawer_item_budget">Бюджет</string>
+
+    <string name="drawer_title_other">Прочее</string>
+    <string name="drawer_item_reminders">Напоминания</string>
+    <string name="drawer_item_settings_app">Настройки приложения</string>
+
+    <string name="drawer_title_contacts">Обратная связь</string>
+    <string name="drawer_item_group_vk">Группа VK</string>
+</resources>
