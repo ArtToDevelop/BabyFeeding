@@ -139,6 +139,11 @@ public class MainActivity extends AppCompatActivity {
                     public void onItemClick(AdapterView<?> parent, View view, int position, long id, IDrawerItem drawerItem) {
                         fragmentTransaction = getFragmentManager().beginTransaction();
 
+                        if (drawerItem == null)
+                        {
+                            return;
+                        }
+
                         switch (drawerItem.getIdentifier())
                         {
                             case drawer_item_home:
